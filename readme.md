@@ -12,4 +12,3 @@ I created this project to enhance my personal skills. Through this project, I ai
   - pull request / pullrequest draft
 + Using `pytest` for code testing, aiming to achieve 100% coverage. Hope this will help in developing a habit of writing comprehensive test codes that cover all aspects.
 + Reflect on and augment my proficiency in writing Python code
-
