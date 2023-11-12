@@ -1,4 +1,4 @@
-# CSE-122-P2-absurdle-python
+# CSE-122-P2-absurdle-python <a href="./LICENSE"> <img src="https://img.shields.io/github/license/Harry-Jing/CSE-122-P2-absurdle-python.svg" alt="license" /> <a href="www.python.org"> <img src="https://img.shields.io/badge/python-3.12+-blue.svg" alt="python" /> </a>
 
 I created this project to enhance my personal skills. Through this project, I aim to test and improve the following tools:
 
