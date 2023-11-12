@@ -17,7 +17,7 @@ def pattern(word: str, guess: str) -> str:
     word_counts = Counter(word)  # Count all letters in word
 
     # Subtract all correct letters from word_counts
-    word_counts.subtract(i for i, j in zip(word, guess) if i == j)
+    word_counts.subtract(i for i,j in zip(word, guess) if i==j)
 
     # Add green, yellow, and grey letters to pattern
     for word_letter, guess_letter in zip(word, guess):
