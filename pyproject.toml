@@ -26,7 +26,7 @@ target-version = ["py312"]
 
 [tool.isort]
 profile = "black"
-py_version = 312
+py_version = 311 # isort dosn't support 3.12 yet
 length_sort = true
 
 

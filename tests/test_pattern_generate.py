@@ -1,6 +1,5 @@
 from src.absurdle_gan import pattern
 
-
 test_words = [
     ("abbey", "bebop", "🟨🟨🟩⬜⬜"),
     ("abbey", "ether", "⬜⬜⬜🟩⬜"),

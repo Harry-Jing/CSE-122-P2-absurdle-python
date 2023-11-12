@@ -14,7 +14,7 @@ def pattern(word: str, guess: str) -> str:
     """
 
     pattern = ""
-    word_counts = Counter(word) # Count all letters in word
+    word_counts = Counter(word)  # Count all letters in word
 
     # Subtract all correct letters from word_counts
     word_counts.subtract(i for i, j in zip(word, guess) if i == j)
